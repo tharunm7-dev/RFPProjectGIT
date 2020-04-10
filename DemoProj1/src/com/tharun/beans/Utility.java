@@ -26,4 +26,7 @@ public class Utility {
 		
 	}
 	
+	public void m5() {
+		
+	}
 }
